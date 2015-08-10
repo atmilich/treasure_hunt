@@ -11,13 +11,26 @@ h1{
 
 ul{
   margin-top: 20px;
-  text-align: center;
-  margin-right: 48%;
-  margin-left: 46.3%;
   font-size: 150%;
-   font-family: 'Fredericka the Great', cursive;
+  text-align: center;
+  margin-right: 30%;
+  margin-left: -1%;
+  width: 100%;
+  font-family: 'Fredericka the Great', cursive;
   color: black;
 }
+
+a{
+  color: rgb(139,69,19);
+}
+
+a:hover{
+  color: rgb(154, 198, 78);
+  font-size: 150%;
+  text-decoration: none;
+  text-align: center;
+}
+
 p{
   text-align: center;
   font-family: 'Petit Formal Script', cursive;
